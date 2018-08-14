@@ -146,7 +146,7 @@ hr {
 </style>
 
 <script>
-//obtains the orientee evaluation information, based on what's populated in the orientee name field
+//obtains the sharepoint list information, based on what's populated each list record
 
 jQuery(document).ready(function($) {
 	var siteUrl = "[site url]"
